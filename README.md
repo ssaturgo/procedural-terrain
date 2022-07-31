@@ -3,7 +3,8 @@ This is a Procedural Terrain Generator I made with Unity3D
 
 # Custom Inspector
 I customized the Terrain Generator script to allow you create and edit the terrain live.
-if you enable "Auto Update" : the terrain will update as you edit the values. \n
+if you enable "Auto Update" : the terrain will update as you edit the values.
+
 ![Screenshot_68](https://user-images.githubusercontent.com/59628448/182008706-e48416f1-446f-4fe0-b472-8eae2ee216ca.png)
 
 # Samples
