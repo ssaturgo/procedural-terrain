@@ -1,8 +1,11 @@
 # procedural-terrain
-This is a Procedural Terrain Generator I made with Unity3D
+This is a Procedural Terrain Generator made in Unity3D
+
+I started this project to learn more about game developement.
+The code is heavily based on Sebastian Lague's work.
+I only made very minor tweaks to them.
 
 # Custom Inspector
-I customized the Terrain Generator script to allow you create and edit the terrain live.
 if you enable "Auto Update" : the terrain will update as you edit the values.
 
 ![Screenshot_72](https://user-images.githubusercontent.com/59628448/182785797-420664be-d926-4382-a479-01f4339ed450.png)
