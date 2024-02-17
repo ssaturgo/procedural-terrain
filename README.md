@@ -2,8 +2,6 @@
 This is a Procedural Terrain Generator made in Unity3D
 
 I started this project to learn more about game developement.
-The code is heavily based on Sebastian Lague's work.
-I only made very minor tweaks to them.
 
 # Custom Inspector
 if you enable "Auto Update" : the terrain will update as you edit the values.
